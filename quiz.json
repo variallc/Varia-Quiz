@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "question": "In a perfectly inelastic collision:",
+      "options": [
+        "Heat is gained",
+        "Energy is lost",
+        "Energy is gained",
+        "Power is lost"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The collision between two or more objects during which no energy is lost is called:",
+      "options": [
+        "Conserved collision",
+        "Material collision",
+        "Inelastic collision",
+        "Elastic collision"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Work is defined as the product of:",
+      "options": [
+        "Force × distance",
+        "Force × time",
+        "Force × momentum",
+        "Force × velocity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The path followed by a projectile is known as:",
+      "options": [
+        "Curve",
+        "Range",
+        "Flight time",
+        "Trajectory"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In projectile motion, at maximum height the vertical component of velocity is:",
+      "options": [
+        "Greatest",
+        "Zero",
+        "Downwards",
+        "Upwards"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Force is equal to the product of mass and:",
+      "options": [
+        "Acceleration",
+        "Velocity",
+        "Time",
+        "Distance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The product of force and time is equal to:",
+      "options": [
+        "Momentum",
+        "Watts",
+        "Acceleration",
+        "Impulse"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The transfer of heat through solids is known as:",
+      "options": [
+        "Conduction",
+        "Radiation",
+        "Convection",
+        "Thermodition"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The SI unit of momentum is:",
+      "options": [
+        "N/s",
+        "kgm",
+        "N",
+        "kg/m"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Acceleration due to gravity is ______ at the poles than at the equator:",
+      "options": [
+        "Minimal",
+        "Tighter",
+        "Greater",
+        "Lost"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The velocity needed by an object to be projected into space from the surface of the earth is called:",
+      "options": [
+        "Escape velocity",
+        "Vertical velocity",
+        "Initial velocity",
+        "Final velocity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Energy expended per unit time is called:",
+      "options": [
+        "Power",
+        "Work",
+        "Joule",
+        "Kinetic energy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a vector quantity?",
+      "options": [
+        "Distance",
+        "Speed",
+        "Temperature",
+        "Displacement"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The scalar product of two vectors at right angles to each other is always:",
+      "options": [
+        "1",
+        "90",
+        "Zero",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The SI unit of time is:",
+      "options": [
+        "Minute",
+        "Second",
+        "Day",
+        "Year"
+      ],
+      "answer": 1
+    }
+  ]
+      }

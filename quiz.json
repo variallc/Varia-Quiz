@@ -1,6 +1,7 @@
 {
   "questions": [
     {
+      "type": "mcq",
       "question": "In a perfectly inelastic collision:",
       "options": [
         "Heat is gained",
@@ -11,6 +12,7 @@
       "answer": 1
     },
     {
+      "type": "mcq",
       "question": "The collision between two or more objects during which no energy is lost is called:",
       "options": [
         "Conserved collision",
@@ -21,6 +23,18 @@
       "answer": 3
     },
     {
+      "type": "mcq",
+      "question": "The sudden impact felt between two or more objects is called:",
+      "options": [
+        "Explosion",
+        "Conservation",
+        "Collision",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
       "question": "Work is defined as the product of:",
       "options": [
         "Force × distance",
@@ -31,6 +45,7 @@
       "answer": 0
     },
     {
+      "type": "mcq",
       "question": "The path followed by a projectile is known as:",
       "options": [
         "Curve",
@@ -41,6 +56,19 @@
       "answer": 3
     },
     {
+      "type": "diagram",
+      "question": "Identify the path of the projectile shown below",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Projectile_motion.svg",
+      "options": [
+        "Circular path",
+        "Straight line",
+        "Parabolic trajectory",
+        "Random motion"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
       "question": "In projectile motion, at maximum height the vertical component of velocity is:",
       "options": [
         "Greatest",
@@ -51,26 +79,18 @@
       "answer": 1
     },
     {
-      "question": "Force is equal to the product of mass and:",
+      "type": "mcq",
+      "question": "Projectile motion is an example of motion in how many dimensions?",
       "options": [
-        "Acceleration",
-        "Velocity",
-        "Time",
-        "Distance"
+        "One",
+        "Two",
+        "Three",
+        "Four"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "The product of force and time is equal to:",
-      "options": [
-        "Momentum",
-        "Watts",
-        "Acceleration",
-        "Impulse"
-      ],
-      "answer": 3
-    },
-    {
+      "type": "mcq",
       "question": "The transfer of heat through solids is known as:",
       "options": [
         "Conduction",
@@ -81,16 +101,40 @@
       "answer": 0
     },
     {
-      "question": "The SI unit of momentum is:",
+      "type": "mcq",
+      "question": "Force is equal to the product of mass and:",
+      "options": [
+        "Acceleration",
+        "Velocity",
+        "Time",
+        "Distance"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is the SI unit of momentum?",
       "options": [
         "N/s",
-        "kgm",
+        "kgm/s",
         "N",
         "kg/m"
       ],
       "answer": 1
     },
     {
+      "type": "mcq",
+      "question": "The product of force and time is equal to:",
+      "options": [
+        "Momentum",
+        "Watts",
+        "Acceleration",
+        "Impulse"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
       "question": "Acceleration due to gravity is ______ at the poles than at the equator:",
       "options": [
         "Minimal",
@@ -101,7 +145,8 @@
       "answer": 2
     },
     {
-      "question": "The velocity needed by an object to be projected into space from the surface of the earth is called:",
+      "type": "mcq",
+      "question": "The velocity needed by an object to escape from the earth's surface is called:",
       "options": [
         "Escape velocity",
         "Vertical velocity",
@@ -111,6 +156,30 @@
       "answer": 0
     },
     {
+      "type": "mcq",
+      "question": "Below the earth's surface, acceleration due to gravity decreases linearly with:",
+      "options": [
+        "Density",
+        "Depth",
+        "Height",
+        "Temperature"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "diagram",
+      "question": "The diagram below represents a satellite orbiting the Earth. Identify the motion.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Orbit1.svg",
+      "options": [
+        "Random motion",
+        "Circular orbital motion",
+        "Linear motion",
+        "Oscillatory motion"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
       "question": "Energy expended per unit time is called:",
       "options": [
         "Power",
@@ -121,6 +190,51 @@
       "answer": 0
     },
     {
+      "type": "mcq",
+      "question": "The quantity of matter contained in a body is called:",
+      "options": [
+        "Weight",
+        "Mass",
+        "Matter",
+        "Gravity"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Newton's second law states that the rate of change of momentum is proportional to:",
+      "options": [
+        "Pressure",
+        "Force",
+        "Energy",
+        "Power"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "In circular motion which of the following quantities is constant?",
+      "options": [
+        "Velocity",
+        "Time",
+        "Mass",
+        "Acceleration"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Velocity is defined as:",
+      "options": [
+        "Distance/time",
+        "Speed/time",
+        "Displacement/time",
+        "Variation/time"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
       "question": "Which of the following is a vector quantity?",
       "options": [
         "Distance",
@@ -131,24 +245,63 @@
       "answer": 3
     },
     {
-      "question": "The scalar product of two vectors at right angles to each other is always:",
+      "type": "mcq",
+      "question": "The scalar product of two vectors at right angles to each other is:",
       "options": [
         "1",
         "90",
         "Zero",
-        "None of these"
+        "Infinity"
       ],
       "answer": 2
     },
     {
-      "question": "The SI unit of time is:",
+      "type": "mcq",
+      "question": "The degree of hotness or coldness of a body is called:",
       "options": [
-        "Minute",
-        "Second",
-        "Day",
-        "Year"
+        "Pressure",
+        "Heat",
+        "Temperature",
+        "Kelvin"
       ],
-      "answer": 1
+      "answer": 2
+    },
+    {
+      "type": "input",
+      "question": "What is the approximate value of acceleration due to gravity on Earth (m/s^2)?",
+      "answerText": "9.8"
+    },
+    {
+      "type": "input",
+      "question": "SI unit of force",
+      "answerText": "Newton"
+    },
+    {
+      "type": "input",
+      "question": "SI unit of time",
+      "answerText": "second"
+    },
+    {
+      "type": "diagram",
+      "question": "Identify the type of heat transfer illustrated below",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Heat_Transfer_Conduction.png",
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Evaporation"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "input",
+      "question": "Name the quantity defined as energy per unit time",
+      "answerText": "power"
+    },
+    {
+      "type": "input",
+      "question": "What quantity measures the amount of matter in a body?",
+      "answerText": "mass"
     }
   ]
-      }
+    }

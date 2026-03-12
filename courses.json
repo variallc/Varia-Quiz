@@ -6,61 +6,92 @@
         {
           "level": "100 Level",
           "courses": [
-            {
-              "name": "PHY 101",
-              "emoji": "⚛️",
-              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/phy101.json"
-            },
-            {
-              "name": "CHM 101",
-              "emoji": "🧪",
-              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/chm101.json"
-            },
-            {
-              "name": "BIO 101",
-              "emoji": "🧬",
-              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/bio101.json"
-            },
-            {
-              "name": "GNS 101",
-              "emoji": "📘",
-              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/gns101.json"
-            },
-            {
-              "name": "PHY 103",
-              "emoji": "⚛️",
-              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/phy103.json"
-            },
-            {
-              "name": "CHM 103",
-              "emoji": "🧪",
-              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/chm103.json"
-            },
-            {
-              "name": "ZOO 101",
-              "emoji": "🦁",
-              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/zoo101.json"
-            },
-            {
-              "name": "CVE 105",
-              "emoji": "🏗️",
-              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/cve105.json"
-            },
-            {
-              "name": "BIO 103",
-              "emoji": "🧬",
-              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/bio103.json"
-            },
-            {
-              "name": "MTS 101",
-              "emoji": "📐",
-              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/mts101.json"
-            },
-            {
-              "name": "STA 101",
-              "emoji": "📊",
-              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/sta101.json"
-            },
+            {"name":"PHY 101","emoji":"⚛️","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/phy101.json"},
+            {"name":"CHM 101","emoji":"🧪","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/chm101.json"},
+            {"name":"BIO 101","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bio101.json"},
+            {"name":"GNS 101","emoji":"📘","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/gns101.json"},
+            {"name":"PHY 103","emoji":"⚛️","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/phy103.json"},
+            {"name":"CHM 103","emoji":"🧪","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/chm103.json"},
+            {"name":"ZOO 101","emoji":"🦁","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/zoo101.json"},
+            {"name":"CVE 105","emoji":"🏗️","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/cve105.json"},
+            {"name":"BIO 103","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bio103.json"},
+            {"name":"MTS 101","emoji":"📐","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/mts101.json"},
+            {"name":"STA 101","emoji":"📊","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/sta101.json"},
+            {"name":"MCB 151","emoji":"🦠","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/mcb151.json"}
+          ]
+        },
+        {
+          "level": "200 Level",
+          "courses": [
+            {"name":"MCB 201","emoji":"🦠","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/mcb201.json"},
+            {"name":"BCH 201","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bch201.json"},
+            {"name":"MTS 201","emoji":"📐","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/mts201.json"},
+            {"name":"CHM 201","emoji":"🧪","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/chm201.json"},
+            {"name":"BIO 201","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bio201.json"}
+          ]
+        },
+        {
+          "level": "300 Level",
+          "courses": [
+            {"name":"BCH 301","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bch301.json"},
+            {"name":"BCH 305","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bch305.json"},
+            {"name":"BCH 307","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bch307.json"},
+            {"name":"BCH 309","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bch309.json"},
+            {"name":"BCH 303","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bch303.json"},
+            {"name":"CHE 305","emoji":"⚗️","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/che305.json"},
+            {"name":"CHE 315","emoji":"⚗️","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/che315.json"},
+            {"name":"CHE 317","emoji":"⚗️","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/che317.json"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Second Semester",
+      "levels": [
+        {
+          "level": "100 Level",
+          "courses": [
+            {"name":"PHY 102","emoji":"⚛️","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/phy102.json"},
+            {"name":"CHM 102","emoji":"🧪","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/chm102.json"},
+            {"name":"BIO 102","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bio102.json"},
+            {"name":"GNS 102","emoji":"📘","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/gns102.json"},
+            {"name":"PHY 104","emoji":"⚛️","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/phy104.json"},
+            {"name":"CHM 104","emoji":"🧪","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/chm104.json"},
+            {"name":"ZOO 102","emoji":"🦁","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/zoo102.json"},
+            {"name":"CVE 106","emoji":"🏗️","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/cve106.json"},
+            {"name":"BIO 104","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bio104.json"},
+            {"name":"MTS 102","emoji":"📐","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/mts102.json"},
+            {"name":"STA 102","emoji":"📊","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/sta102.json"},
+            {"name":"MCB 152","emoji":"🦠","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/mcb152.json"}
+          ]
+        },
+        {
+          "level": "200 Level",
+          "courses": [
+            {"name":"MCB 202","emoji":"🦠","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/mcb202.json"},
+            {"name":"BCH 202","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bch202.json"},
+            {"name":"MTS 202","emoji":"📐","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/mts202.json"},
+            {"name":"CHM 202","emoji":"🧪","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/chm202.json"},
+            {"name":"BIO 202","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bio202.json"}
+          ]
+        },
+        {
+          "level": "300 Level",
+          "courses": [
+            {"name":"BCH 302","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bch302.json"},
+            {"name":"BCH 306","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bch306.json"},
+            {"name":"BCH 308","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bch308.json"},
+            {"name":"BCH 310","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bch310.json"},
+            {"name":"BCH 304","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/bch304.json"},
+            {"name":"CHE 306","emoji":"⚗️","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/che306.json"},
+            {"name":"CHE 316","emoji":"⚗️","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/che316.json"},
+            {"name":"CHE 318","emoji":"⚗️","quiz_url":"https://raw.githubusercontent.com/variallc/Varia-Quiz/refs/heads/main/quizzes/che318.json"}
+          ]
+        }
+      ]
+    }
+  ]
+        }            },
             {
               "name": "MCB 151",
               "emoji": "🦠",

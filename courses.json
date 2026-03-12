@@ -1,0 +1,194 @@
+{
+  "semesters": [
+    {
+      "name": "First Semester",
+      "levels": [
+        {
+          "level": "100 Level",
+          "courses": [
+            {
+              "name": "PHY 101",
+              "emoji": "⚛️",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/phy101.json"
+            },
+            {
+              "name": "CHM 101",
+              "emoji": "🧪",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/chm101.json"
+            },
+            {
+              "name": "BIO 101",
+              "emoji": "🧬",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/bio101.json"
+            },
+            {
+              "name": "GNS 101",
+              "emoji": "📘",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/gns101.json"
+            },
+            {
+              "name": "PHY 103",
+              "emoji": "⚛️",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/phy103.json"
+            },
+            {
+              "name": "CHM 103",
+              "emoji": "🧪",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/chm103.json"
+            },
+            {
+              "name": "ZOO 101",
+              "emoji": "🦁",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/zoo101.json"
+            },
+            {
+              "name": "CVE 105",
+              "emoji": "🏗️",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/cve105.json"
+            },
+            {
+              "name": "BIO 103",
+              "emoji": "🧬",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/bio103.json"
+            },
+            {
+              "name": "MTS 101",
+              "emoji": "📐",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/mts101.json"
+            },
+            {
+              "name": "STA 101",
+              "emoji": "📊",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/sta101.json"
+            },
+            {
+              "name": "MCB 151",
+              "emoji": "🦠",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/mcb151.json"
+            }
+          ]
+        },
+        {
+          "level": "200 Level",
+          "courses": [
+            {
+              "name": "MCB 201",
+              "emoji": "🦠",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/mcb201.json"
+            },
+            {
+              "name": "BCH 201",
+              "emoji": "🧬",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/bch201.json"
+            },
+            {
+              "name": "MTS 201",
+              "emoji": "📐",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/mts201.json"
+            },
+            {
+              "name": "CHM 201",
+              "emoji": "🧪",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/chm201.json"
+            },
+            {
+              "name": "BIO 201",
+              "emoji": "🧬",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/bio201.json"
+            }
+          ]
+        },
+        {
+          "level": "300 Level",
+          "courses": [
+            {
+              "name": "BCH 301",
+              "emoji": "🧬",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/bch301.json"
+            },
+            {
+              "name": "BCH 305",
+              "emoji": "🧬",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/bch305.json"
+            },
+            {
+              "name": "BCH 307",
+              "emoji": "🧬",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/bch307.json"
+            },
+            {
+              "name": "BCH 309",
+              "emoji": "🧬",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/bch309.json"
+            },
+            {
+              "name": "BCH 303",
+              "emoji": "🧬",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/bch303.json"
+            },
+            {
+              "name": "CHE 305",
+              "emoji": "⚗️",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/che305.json"
+            },
+            {
+              "name": "CHE 315",
+              "emoji": "⚗️",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/che315.json"
+            },
+            {
+              "name": "CHE 317",
+              "emoji": "⚗️",
+              "quiz_url": "https://raw.githubusercontent.com/yourrepo/quiz/main/che317.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Second Semester",
+      "levels": [
+        {
+          "level": "100 Level",
+          "courses": [
+            {"name":"PHY 102","emoji":"⚛️","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/phy102.json"},
+            {"name":"CHM 102","emoji":"🧪","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/chm102.json"},
+            {"name":"BIO 102","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/bio102.json"},
+            {"name":"GNS 102","emoji":"📘","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/gns102.json"},
+            {"name":"PHY 104","emoji":"⚛️","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/phy104.json"},
+            {"name":"CHM 104","emoji":"🧪","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/chm104.json"},
+            {"name":"ZOO 102","emoji":"🦁","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/zoo102.json"},
+            {"name":"CVE 106","emoji":"🏗️","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/cve106.json"},
+            {"name":"BIO 104","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/bio104.json"},
+            {"name":"MTS 102","emoji":"📐","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/mts102.json"},
+            {"name":"STA 102","emoji":"📊","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/sta102.json"},
+            {"name":"MCB 152","emoji":"🦠","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/mcb152.json"}
+          ]
+        },
+        {
+          "level": "200 Level",
+          "courses": [
+            {"name":"MCB 202","emoji":"🦠","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/mcb202.json"},
+            {"name":"BCH 202","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/bch202.json"},
+            {"name":"MTS 202","emoji":"📐","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/mts202.json"},
+            {"name":"CHM 202","emoji":"🧪","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/chm202.json"},
+            {"name":"BIO 202","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/bio202.json"}
+          ]
+        },
+        {
+          "level": "300 Level",
+          "courses": [
+            {"name":"BCH 302","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/bch302.json"},
+            {"name":"BCH 306","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/bch306.json"},
+            {"name":"BCH 308","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/bch308.json"},
+            {"name":"BCH 310","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/bch310.json"},
+            {"name":"BCH 304","emoji":"🧬","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/bch304.json"},
+            {"name":"CHE 306","emoji":"⚗️","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/che306.json"},
+            {"name":"CHE 316","emoji":"⚗️","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/che316.json"},
+            {"name":"CHE 318","emoji":"⚗️","quiz_url":"https://raw.githubusercontent.com/yourrepo/quiz/main/che318.json"}
+          ]
+        }
+      ]
+    }
+  ]
+}

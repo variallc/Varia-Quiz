@@ -9,7 +9,8 @@
         "Energy is gained",
         "Power is lost"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "In a perfectly inelastic collision, kinetic energy is not conserved because part of it is transformed into heat, sound, or deformation energy."
     },
     {
       "type": "mcq",
@@ -20,7 +21,8 @@
         "Inelastic collision",
         "Elastic collision"
       ],
-      "answer": 3
+      "answer": 3,
+      "explanation": "An elastic collision is one in which both momentum and kinetic energy are conserved."
     },
     {
       "type": "mcq",
@@ -31,7 +33,8 @@
         "Collision",
         "None of these"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "A collision refers to the sudden interaction or impact between two or more bodies."
     },
     {
       "type": "mcq",
@@ -42,7 +45,8 @@
         "Force × momentum",
         "Force × velocity"
       ],
-      "answer": 0
+      "answer": 0,
+      "explanation": "Work is done when a force moves an object through a distance. Mathematically, Work = Force × Distance."
     },
     {
       "type": "mcq",
@@ -53,7 +57,8 @@
         "Flight time",
         "Trajectory"
       ],
-      "answer": 3
+      "answer": 3,
+      "explanation": "The curved path taken by an object under projectile motion is called its trajectory."
     },
     {
       "type": "diagram",
@@ -65,7 +70,8 @@
         "Parabolic trajectory",
         "Random motion"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Projectile motion under uniform gravity follows a parabolic path."
     },
     {
       "type": "mcq",
@@ -76,7 +82,8 @@
         "Downwards",
         "Upwards"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "At the highest point of projectile motion, the vertical velocity becomes zero before the object starts descending."
     },
     {
       "type": "mcq",
@@ -87,7 +94,8 @@
         "Three",
         "Four"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Projectile motion involves both horizontal and vertical motion, making it two-dimensional."
     },
     {
       "type": "mcq",
@@ -98,7 +106,8 @@
         "Convection",
         "Thermodition"
       ],
-      "answer": 0
+      "answer": 0,
+      "explanation": "Conduction is the transfer of heat through direct contact of particles, usually in solids."
     },
     {
       "type": "mcq",
@@ -109,7 +118,8 @@
         "Time",
         "Distance"
       ],
-      "answer": 0
+      "answer": 0,
+      "explanation": "According to Newton’s Second Law, Force = Mass × Acceleration (F = ma)."
     },
     {
       "type": "mcq",
@@ -120,7 +130,8 @@
         "N",
         "kg/m"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Momentum is defined as mass × velocity, so its SI unit is kg·m/s."
     },
     {
       "type": "mcq",
@@ -131,7 +142,8 @@
         "Acceleration",
         "Impulse"
       ],
-      "answer": 3
+      "answer": 3,
+      "explanation": "Impulse equals force multiplied by time and represents the change in momentum."
     },
     {
       "type": "mcq",
@@ -142,7 +154,8 @@
         "Greater",
         "Lost"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Gravity is slightly stronger at the poles because the Earth is slightly flattened and rotational effects are smaller there."
     },
     {
       "type": "mcq",
@@ -153,7 +166,8 @@
         "Initial velocity",
         "Final velocity"
       ],
-      "answer": 0
+      "answer": 0,
+      "explanation": "Escape velocity is the minimum velocity required for an object to leave Earth's gravitational field."
     },
     {
       "type": "mcq",
@@ -164,7 +178,8 @@
         "Height",
         "Temperature"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Inside the Earth, gravitational acceleration decreases approximately linearly with depth."
     },
     {
       "type": "diagram",
@@ -176,7 +191,8 @@
         "Linear motion",
         "Oscillatory motion"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Satellites move in orbital motion around Earth due to gravitational force providing centripetal acceleration."
     },
     {
       "type": "mcq",
@@ -187,7 +203,8 @@
         "Joule",
         "Kinetic energy"
       ],
-      "answer": 0
+      "answer": 0,
+      "explanation": "Power is the rate at which work is done or energy is transferred."
     },
     {
       "type": "mcq",
@@ -198,7 +215,8 @@
         "Matter",
         "Gravity"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Mass measures the amount of matter in a body and is independent of gravity."
     },
     {
       "type": "mcq",
@@ -209,7 +227,8 @@
         "Energy",
         "Power"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Newton’s second law states that the rate of change of momentum of a body is directly proportional to the applied force."
     },
     {
       "type": "mcq",
@@ -220,7 +239,8 @@
         "Mass",
         "Acceleration"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Mass remains constant in circular motion while velocity and acceleration may change direction."
     },
     {
       "type": "mcq",
@@ -231,7 +251,8 @@
         "Displacement/time",
         "Variation/time"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Velocity is the rate of change of displacement with respect to time."
     },
     {
       "type": "mcq",
@@ -242,7 +263,8 @@
         "Temperature",
         "Displacement"
       ],
-      "answer": 3
+      "answer": 3,
+      "explanation": "Displacement has both magnitude and direction, making it a vector quantity."
     },
     {
       "type": "mcq",
@@ -253,7 +275,8 @@
         "Zero",
         "Infinity"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Dot product = AB cosθ. When θ = 90°, cos90 = 0, so the scalar product is zero."
     },
     {
       "type": "mcq",
@@ -264,22 +287,26 @@
         "Temperature",
         "Kelvin"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Temperature measures how hot or cold a body is."
     },
     {
       "type": "input",
       "question": "What is the approximate value of acceleration due to gravity on Earth (m/s^2)?",
-      "answerText": "9.8"
+      "answerText": "9.8",
+      "explanation": "The average acceleration due to gravity near Earth’s surface is approximately 9.8 m/s²."
     },
     {
       "type": "input",
       "question": "SI unit of force",
-      "answerText": "Newton"
+      "answerText": "Newton",
+      "explanation": "The SI unit of force is Newton (N), defined as the force required to accelerate 1 kg mass by 1 m/s²."
     },
     {
       "type": "input",
       "question": "SI unit of time",
-      "answerText": "second"
+      "answerText": "second",
+      "explanation": "The base SI unit of time is the second (s)."
     },
     {
       "type": "diagram",
@@ -291,17 +318,356 @@
         "Radiation",
         "Evaporation"
       ],
-      "answer": 0
+      "answer": 0,
+      "explanation": "Conduction transfers heat through direct molecular contact, mainly in solids."
     },
     {
       "type": "input",
       "question": "Name the quantity defined as energy per unit time",
-      "answerText": "power"
+      "answerText": "power",
+      "explanation": "Power measures the rate of doing work or transferring energy."
     },
     {
       "type": "input",
       "question": "What quantity measures the amount of matter in a body?",
-      "answerText": "mass"
+      "answerText": "mass",
+      "explanation": "Mass is the physical quantity that represents the amount of matter in an object."
     }
   ]
+        }{
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "In a perfectly inelastic collision:",
+      "options": [
+        "Heat is gained",
+        "Energy is lost",
+        "Energy is gained",
+        "Power is lost"
+      ],
+      "answer": 1,
+      "explanation": "In a perfectly inelastic collision, kinetic energy is not conserved because part of it is transformed into heat, sound, or deformation energy."
+    },
+    {
+      "type": "mcq",
+      "question": "The collision between two or more objects during which no energy is lost is called:",
+      "options": [
+        "Conserved collision",
+        "Material collision",
+        "Inelastic collision",
+        "Elastic collision"
+      ],
+      "answer": 3,
+      "explanation": "An elastic collision is one in which both momentum and kinetic energy are conserved."
+    },
+    {
+      "type": "mcq",
+      "question": "The sudden impact felt between two or more objects is called:",
+      "options": [
+        "Explosion",
+        "Conservation",
+        "Collision",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "A collision refers to the sudden interaction or impact between two or more bodies."
+    },
+    {
+      "type": "mcq",
+      "question": "Work is defined as the product of:",
+      "options": [
+        "Force × distance",
+        "Force × time",
+        "Force × momentum",
+        "Force × velocity"
+      ],
+      "answer": 0,
+      "explanation": "Work is done when a force moves an object through a distance. Mathematically, Work = Force × Distance."
+    },
+    {
+      "type": "mcq",
+      "question": "The path followed by a projectile is known as:",
+      "options": [
+        "Curve",
+        "Range",
+        "Flight time",
+        "Trajectory"
+      ],
+      "answer": 3,
+      "explanation": "The curved path taken by an object under projectile motion is called its trajectory."
+    },
+    {
+      "type": "diagram",
+      "question": "Identify the path of the projectile shown below",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Projectile_motion.svg",
+      "options": [
+        "Circular path",
+        "Straight line",
+        "Parabolic trajectory",
+        "Random motion"
+      ],
+      "answer": 2,
+      "explanation": "Projectile motion under uniform gravity follows a parabolic path."
+    },
+    {
+      "type": "mcq",
+      "question": "In projectile motion, at maximum height the vertical component of velocity is:",
+      "options": [
+        "Greatest",
+        "Zero",
+        "Downwards",
+        "Upwards"
+      ],
+      "answer": 1,
+      "explanation": "At the highest point of projectile motion, the vertical velocity becomes zero before the object starts descending."
+    },
+    {
+      "type": "mcq",
+      "question": "Projectile motion is an example of motion in how many dimensions?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 1,
+      "explanation": "Projectile motion involves both horizontal and vertical motion, making it two-dimensional."
+    },
+    {
+      "type": "mcq",
+      "question": "The transfer of heat through solids is known as:",
+      "options": [
+        "Conduction",
+        "Radiation",
+        "Convection",
+        "Thermodition"
+      ],
+      "answer": 0,
+      "explanation": "Conduction is the transfer of heat through direct contact of particles, usually in solids."
+    },
+    {
+      "type": "mcq",
+      "question": "Force is equal to the product of mass and:",
+      "options": [
+        "Acceleration",
+        "Velocity",
+        "Time",
+        "Distance"
+      ],
+      "answer": 0,
+      "explanation": "According to Newton’s Second Law, Force = Mass × Acceleration (F = ma)."
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is the SI unit of momentum?",
+      "options": [
+        "N/s",
+        "kgm/s",
+        "N",
+        "kg/m"
+      ],
+      "answer": 1,
+      "explanation": "Momentum is defined as mass × velocity, so its SI unit is kg·m/s."
+    },
+    {
+      "type": "mcq",
+      "question": "The product of force and time is equal to:",
+      "options": [
+        "Momentum",
+        "Watts",
+        "Acceleration",
+        "Impulse"
+      ],
+      "answer": 3,
+      "explanation": "Impulse equals force multiplied by time and represents the change in momentum."
+    },
+    {
+      "type": "mcq",
+      "question": "Acceleration due to gravity is ______ at the poles than at the equator:",
+      "options": [
+        "Minimal",
+        "Tighter",
+        "Greater",
+        "Lost"
+      ],
+      "answer": 2,
+      "explanation": "Gravity is slightly stronger at the poles because the Earth is slightly flattened and rotational effects are smaller there."
+    },
+    {
+      "type": "mcq",
+      "question": "The velocity needed by an object to escape from the earth's surface is called:",
+      "options": [
+        "Escape velocity",
+        "Vertical velocity",
+        "Initial velocity",
+        "Final velocity"
+      ],
+      "answer": 0,
+      "explanation": "Escape velocity is the minimum velocity required for an object to leave Earth's gravitational field."
+    },
+    {
+      "type": "mcq",
+      "question": "Below the earth's surface, acceleration due to gravity decreases linearly with:",
+      "options": [
+        "Density",
+        "Depth",
+        "Height",
+        "Temperature"
+      ],
+      "answer": 1,
+      "explanation": "Inside the Earth, gravitational acceleration decreases approximately linearly with depth."
+    },
+    {
+      "type": "diagram",
+      "question": "The diagram below represents a satellite orbiting the Earth. Identify the motion.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Orbit1.svg",
+      "options": [
+        "Random motion",
+        "Circular orbital motion",
+        "Linear motion",
+        "Oscillatory motion"
+      ],
+      "answer": 1,
+      "explanation": "Satellites move in orbital motion around Earth due to gravitational force providing centripetal acceleration."
+    },
+    {
+      "type": "mcq",
+      "question": "Energy expended per unit time is called:",
+      "options": [
+        "Power",
+        "Work",
+        "Joule",
+        "Kinetic energy"
+      ],
+      "answer": 0,
+      "explanation": "Power is the rate at which work is done or energy is transferred."
+    },
+    {
+      "type": "mcq",
+      "question": "The quantity of matter contained in a body is called:",
+      "options": [
+        "Weight",
+        "Mass",
+        "Matter",
+        "Gravity"
+      ],
+      "answer": 1,
+      "explanation": "Mass measures the amount of matter in a body and is independent of gravity."
+    },
+    {
+      "type": "mcq",
+      "question": "Newton's second law states that the rate of change of momentum is proportional to:",
+      "options": [
+        "Pressure",
+        "Force",
+        "Energy",
+        "Power"
+      ],
+      "answer": 1,
+      "explanation": "Newton’s second law states that the rate of change of momentum of a body is directly proportional to the applied force."
+    },
+    {
+      "type": "mcq",
+      "question": "In circular motion which of the following quantities is constant?",
+      "options": [
+        "Velocity",
+        "Time",
+        "Mass",
+        "Acceleration"
+      ],
+      "answer": 2,
+      "explanation": "Mass remains constant in circular motion while velocity and acceleration may change direction."
+    },
+    {
+      "type": "mcq",
+      "question": "Velocity is defined as:",
+      "options": [
+        "Distance/time",
+        "Speed/time",
+        "Displacement/time",
+        "Variation/time"
+      ],
+      "answer": 2,
+      "explanation": "Velocity is the rate of change of displacement with respect to time."
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is a vector quantity?",
+      "options": [
+        "Distance",
+        "Speed",
+        "Temperature",
+        "Displacement"
+      ],
+      "answer": 3,
+      "explanation": "Displacement has both magnitude and direction, making it a vector quantity."
+    },
+    {
+      "type": "mcq",
+      "question": "The scalar product of two vectors at right angles to each other is:",
+      "options": [
+        "1",
+        "90",
+        "Zero",
+        "Infinity"
+      ],
+      "answer": 2,
+      "explanation": "Dot product = AB cosθ. When θ = 90°, cos90 = 0, so the scalar product is zero."
+    },
+    {
+      "type": "mcq",
+      "question": "The degree of hotness or coldness of a body is called:",
+      "options": [
+        "Pressure",
+        "Heat",
+        "Temperature",
+        "Kelvin"
+      ],
+      "answer": 2,
+      "explanation": "Temperature measures how hot or cold a body is."
+    },
+    {
+      "type": "input",
+      "question": "What is the approximate value of acceleration due to gravity on Earth (m/s^2)?",
+      "answerText": "9.8",
+      "explanation": "The average acceleration due to gravity near Earth’s surface is approximately 9.8 m/s²."
+    },
+    {
+      "type": "input",
+      "question": "SI unit of force",
+      "answerText": "Newton",
+      "explanation": "The SI unit of force is Newton (N), defined as the force required to accelerate 1 kg mass by 1 m/s²."
+    },
+    {
+      "type": "input",
+      "question": "SI unit of time",
+      "answerText": "second",
+      "explanation": "The base SI unit of time is the second (s)."
+    },
+    {
+      "type": "diagram",
+      "question": "Identify the type of heat transfer illustrated below",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Heat_Transfer_Conduction.png",
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Evaporation"
+      ],
+      "answer": 0,
+      "explanation": "Conduction transfers heat through direct molecular contact, mainly in solids."
+    },
+    {
+      "type": "input",
+      "question": "Name the quantity defined as energy per unit time",
+      "answerText": "power",
+      "explanation": "Power measures the rate of doing work or transferring energy."
+    },
+    {
+      "type": "input",
+      "question": "What quantity measures the amount of matter in a body?",
+      "answerText": "mass",
+      "explanation": "Mass is the physical quantity that represents the amount of matter in an object."
     }
+  ]
+        }

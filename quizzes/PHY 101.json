@@ -311,7 +311,7 @@
     {
       "type": "diagram",
       "question": "Identify the type of heat transfer illustrated below",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Heat_Transfer_Conduction.png",
+      "image": "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2952/2018/01/31200003/CNX_UPhysics_13_04_orbit.jpg",
       "options": [
         "Conduction",
         "Convection",
@@ -399,7 +399,7 @@
     {
       "type": "diagram",
       "question": "Identify the path of the projectile shown below",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Projectile_motion.svg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Orbit1.svg",
       "options": [
         "Circular path",
         "Straight line",
@@ -647,7 +647,7 @@
     {
       "type": "diagram",
       "question": "Identify the type of heat transfer illustrated below",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Heat_Transfer_Conduction.png",
+      "image": "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2952/2018/01/31200003/CNX_UPhysics_13_04_orbit.jpg",
       "options": [
         "Conduction",
         "Convection",

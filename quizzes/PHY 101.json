@@ -184,7 +184,7 @@
     {
       "type": "diagram",
       "question": "The diagram below represents a satellite orbiting the Earth. Identify the motion.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Orbit1.svg",
+      "image": "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2952/2018/01/31200003/CNX_UPhysics_13_04_orbit.jpg",
       "options": [
         "Random motion",
         "Circular orbital motion",

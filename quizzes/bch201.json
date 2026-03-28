@@ -1,0 +1,90 @@
+[
+  {
+    "question": "Which of the following enzymes is responsible for unwinding the DNA double helix during replication?",
+    "options": [
+      "DNA polymerase",
+      "Helicase",
+      "Ligase",
+      "Topoisomerase"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Helicase unwinds the DNA double helix by breaking hydrogen bonds between base pairs, allowing replication to proceed."
+  },
+  {
+    "question": "What is the primary function of ribosomal RNA (rRNA)?",
+    "options": [
+      "Carries amino acids to ribosomes",
+      "Forms the core of ribosome structure and catalyzes protein synthesis",
+      "Transcribes DNA into RNA",
+      "Stores genetic information"
+    ],
+    "correctAnswer": 1,
+    "explanation": "rRNA forms the structural and catalytic core of ribosomes and is directly involved in peptide bond formation."
+  },
+  {
+    "question": "Which metabolic pathway generates the most ATP per molecule of glucose?",
+    "options": [
+      "Glycolysis",
+      "Krebs cycle",
+      "Electron transport chain",
+      "Fermentation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The electron transport chain produces the majority of ATP through oxidative phosphorylation."
+  },
+  {
+    "question": "Which vitamin is a component of NAD+ and NADP+?",
+    "options": [
+      "Vitamin B1 (Thiamine)",
+      "Vitamin B2 (Riboflavin)",
+      "Vitamin B3 (Niacin)",
+      "Vitamin B6 (Pyridoxine)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Niacin (Vitamin B3) is a precursor for NAD+ and NADP+, which are essential coenzymes in redox reactions."
+  },
+  {
+    "question": "What type of bond links amino acids together in proteins?",
+    "options": [
+      "Glycosidic bond",
+      "Peptide bond",
+      "Hydrogen bond",
+      "Ionic bond"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A peptide bond is formed between the carboxyl group of one amino acid and the amino group of another."
+  },
+  {
+    "question": "Which organelle is primarily responsible for aerobic respiration?",
+    "options": [
+      "Nucleus",
+      "Mitochondrion",
+      "Golgi apparatus",
+      "Endoplasmic reticulum"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mitochondria are the site of aerobic respiration, including the Krebs cycle and electron transport chain."
+  },
+  {
+    "question": "What is the end product of glycolysis under anaerobic conditions in human cells?",
+    "options": [
+      "Pyruvate",
+      "Lactate",
+      "Ethanol",
+      "Acetyl-CoA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Under anaerobic conditions, pyruvate is reduced to lactate to regenerate NAD+ for glycolysis."
+  },
+  {
+    "question": "Which base is NOT found in RNA?",
+    "options": [
+      "Adenine",
+      "Guanine",
+      "Thymine",
+      "Cytosine"
+    ],
+    "correctAnswer": 2,
+    "explanation": "RNA contains uracil instead of thymine."
+  }
+]
